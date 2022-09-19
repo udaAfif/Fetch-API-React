@@ -10,7 +10,7 @@ const About = () => {
 
       <div className="container about__container">
         <div className="about__left">
-          <p>Hallo, my name Afif Al Amin. </p>
+          <p>Hallo, my name Afif Al Amin. 7 </p>
         </div>
 
         <div className="about__me">
