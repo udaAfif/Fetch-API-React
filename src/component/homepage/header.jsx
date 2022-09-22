@@ -5,12 +5,12 @@ import { BsBookmarkCheck } from "react-icons/bs"
 const About = () => {
   return (
     <section id="about">
-      <h5>Trying Fetch API using Card </h5>
+      <h5>Trying Fetch API </h5>
       <h2>by Afif Al Amin</h2>
 
       <div className="container about__container">
         <div className="about__left">
-          <p>Hallo, my name Afif Al Amin. 7 </p>
+          <p>Hallo, my name Afif Al Amin. </p>
         </div>
 
         <div className="about__me">
